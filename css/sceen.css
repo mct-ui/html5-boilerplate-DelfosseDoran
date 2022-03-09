@@ -9,7 +9,11 @@ html {
   line-height: 1.5;
   font-family: 'helvetica neue', helvetica, arial, sans-serif;
   color: #111111;
-  padding: 24, 24, 0, 24;
+  padding: 24px, 24px, 0;
+}
+
+img {
+  min-width: 100%;
 }
 
 /*
